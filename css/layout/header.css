@@ -1,0 +1,117 @@
+.nav-list {
+    display: none;
+}
+
+.contact {
+    display: none;
+}
+
+.nav-logo {
+        color: var(--prymary-accent-color);
+        font-family: var(--secondary-font);
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.17;
+        letter-spacing: 0.54px;
+        text-transform: uppercase;
+        margin-right: 76px;
+    
+}
+
+.nav-accent {
+    color: var(--secondary-text-color);
+}
+
+
+/* .header {
+    border-bottom: 1px solid var(--prymary-border-color);
+    box-shadow: 0px 1px 6px 0px rgba(46, 47, 66, 0.08),
+        0px 1px 1px 0px rgba(46, 47, 66, 0.16),
+        0px 2px 1px 0px rgba(46, 47, 66, 0.08);
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+}
+
+.nav-logo {
+    color: var(--prymary-accent-color);
+    font-family: var(--secondary-font);
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    margin-right: 76px;
+}
+
+.nav-accent {
+    color: var(--secondary-text-color);
+}
+
+.nav-list {
+    display: flex;
+    gap: 40px;
+}
+
+.nav-link {
+    display: block;
+    position: relative;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    color: var(--secondary-text-color);
+    font-weight: 500;
+
+    transition-property: color;
+    transition-duration: 250ms;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.nav-link:hover,
+.nav-link:focus {
+    color: var(--secondary-accent-color);
+}
+
+.current {
+    color: var(--secondary-accent-color);
+}
+
+.nav-link.current::after {
+    display: block;
+    border-radius: 2px;
+    width: 100%;
+    height: 4px;
+    background-color: var(--secondary-accent-color);
+    content: "";
+    position: absolute;
+    bottom: -1px;
+}
+
+.contact {
+    margin-left: auto;
+    font-style: normal;
+}
+
+.contact-list {
+    display: flex;
+    gap: 40px;
+}
+
+.contact-link {
+    color: var(--prymary-text-color);
+
+    transition-property: color;
+    transition-duration: 250ms;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.contact-link:hover,
+.contact-link:focus {
+    color: var(--secondary-accent-color);
+} */

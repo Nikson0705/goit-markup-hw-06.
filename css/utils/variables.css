@@ -1,0 +1,26 @@
+:root {
+    --prymary-font: "Roboto", sans-serif;
+    --secondary-font: "Raleway", sans-serif;
+
+    --prymary-bg-color: #ffffff;
+    --secondary-bg-color: #2e2f42;
+    --tertiary-bg-color: #f4f4fd;
+    --quaternary-bg-color: #ffffff;
+    --modal-bg-color: #fcfcfc;
+
+    --prymary-text-color: #434455;
+    --secondary-text-color: #2e2f42;
+    --tertiary-text-color: #ffffff;
+    --quaternary-text-color: #f4f4fd;
+    --modal-form-text-color: #8e8f99;
+
+    --prymary-accent-color: #4d5ae5;
+    --secondary-accent-color: #404bbf;
+    --tertiary-accent-color: #31d0aa;
+
+    --prymary-border-color: #e7e9fc;
+    --secondary-border-color: #8e8f99;
+    --subscribe-form-border-color: #ffffff;
+
+    --social-icon-color: #f4f4fd;
+}
