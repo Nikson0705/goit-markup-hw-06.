@@ -1,6 +1,21 @@
-@import "./base/common.css"; 
-@import "./base/container.css";
-@import "./base/section.css";
+/* UTILS (Допоміжні стилі) */
 @import "./utils/visually-hidden.css";
 @import "./utils/variables.css";
+
+/* BASE (Базові стилі) */
+@import "./base/common.css";
+@import "./base/container.css";
+@import "./base/section.css";
+
+/* LAYOUT (Стилі окремих секцій) */
 @import "./layout/header.css";
+
+@import "./layout/hero.css";
+@import "./layout/features.css";
+@import "./layout/team.css";
+@import "./layout/portfolio.css";
+
+@import "./layout/footer.css";
+
+@import "./layout/mobile-menu.css";
+@import "./layout/modal-window.css";
