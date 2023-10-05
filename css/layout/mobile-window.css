@@ -23,9 +23,8 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 95%;
+    width: calc(100% - 36px);
     max-width: 288px;
-    height: 95%;
     max-height: 623px;
     padding: 72px 16px 24px 16px;
     overflow: auto;

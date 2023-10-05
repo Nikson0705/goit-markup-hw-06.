@@ -35,6 +35,8 @@
   }
   
   .team-box {
+    padding-left: 2px;
+    padding-right: 2px;
     padding-top: 32px;
     padding-bottom: 32px;
     text-align: center;
